@@ -14,7 +14,7 @@ After that it´s being decrypted using a simple blowfish en/decryption algorithm
 Change the en/decryption keys. 
 https://prnt.sc/SDmYS0ekJ6Me
 
-Drag and drop your dll into the exe, it will now split the file into 4 encrypted parts. Upload them to your web server. 
+Drag and drop your dll onto the exe, it will now split the file into 4 encrypted parts. Upload them to your web server. 
  - Done.
 
 [+] Decryption:
