@@ -35,4 +35,4 @@ https://prnt.sc/SFo-md-e4Miu
 
 Credits to GH for providing this example.
 
-I decided to make this a litzle better a few years ago. Please keep in mind that this is far away of being anywhere secure. 
+I decided to make this a little better a few years ago. Please keep in mind that this is far away of being anywhere secure. 
