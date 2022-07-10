@@ -7,9 +7,9 @@
 This program will "stream" your encrypted dll by calling InternetReadFile.
 After that it´s being decrypted using a simple blowfish en/decryption algorithm.
 
-## How to use?
+## How to use it?
 
-Encryption: 
+[+] Encryption: 
 
 Change the en/decryption keys. 
 https://prnt.sc/SDmYS0ekJ6Me
@@ -17,7 +17,7 @@ https://prnt.sc/SDmYS0ekJ6Me
 Drag and drop your dll into the exe, it will now split the file into 4 encrypted parts. Upload them to your web server. 
  - Done.
 
-Decryption:
+[+] Decryption:
 
 Include Stream.h and Stream.cpp in your project.
 
