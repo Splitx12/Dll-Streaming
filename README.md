@@ -12,7 +12,7 @@ After that it´s being decrypted using a simple blowfish en/decryption algorithm
 [+] Encryption: 
 
 Change the en/decryption keys to some random characters (like shown). 
-![m1](https://prnt.sc/SDmYS0ekJ6Me)
+https://prnt.sc/SDmYS0ekJ6Me
 
 Drag and drop your dll onto the exe, it will now split the file into 4 encrypted parts. Upload them to your web server. 
  - Done.
