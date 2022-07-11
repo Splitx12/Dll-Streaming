@@ -33,7 +33,7 @@ https://prnt.sc/SFo-md-e4Miu
 
 ## Credits:
 
-This source is based on the GH streaming, so credits to them.
+This source is based on the GH streaming, so credits to them. As well credits to https://github.com/skadro-official/ for providing crypt.h (skCrypt).
 
 I decided to make this a little better a few years ago. Please keep in mind that this is far away of being anywhere secure. 
 I´m releasing this for learning purposes and as I don´t have any need for it anymore.
