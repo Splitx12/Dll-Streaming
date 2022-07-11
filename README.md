@@ -33,6 +33,6 @@ https://prnt.sc/SFo-md-e4Miu
 
 ## Credits:
 
-Credits to GH for providing this example.
+This source is based on the GH streaming, so credits to them.
 
 I decided to make this a little better a few years ago. Please keep in mind that this is far away of being anywhere secure. 
